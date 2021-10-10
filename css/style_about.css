@@ -1,0 +1,23 @@
+.main-banner .Box{
+    background-color:#ffffff;
+    color: black;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: -12rem;
+    margin-bottom: -12rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.main-banner .Box h2{
+    color: black;
+
+}
+.main-banner .Box p{
+    text-align: justify;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-top: 1rem;
+}
